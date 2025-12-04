@@ -108,7 +108,10 @@ header h1 {
     color: #a0a0a0;
     font-size: 0.9em;
 }
-
+#taskPriority , option{
+    background-color: #2d3748;
+    color: #ffffff;
+}
 .input-group i {
     margin-right: 5px;
     color: #00d4ff;
